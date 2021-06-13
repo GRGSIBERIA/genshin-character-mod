@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <DefPackage-HairDef>
     <HairDef>
-        <label>Kokusei</label>
-        <hairGender>F<hairGender>
+        <label>GI Kokusei</label>
+        <hairGender>Female<hairGender>
         <texPath>Hairs/kokusei</texPath>
-        <defName>Genshin</defName>
+        <defName>Kokusei</defName>
         <hairTags>
-            <li>U</li>
+            <li>Urban</li>
         </hairTags>
     </HairDef>
 </DefPackage-HairDef>
